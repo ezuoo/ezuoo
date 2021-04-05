@@ -32,3 +32,10 @@
  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
  
 </p>
+
+<h3 align="center"> 🌟 Contact Me 🌟 </h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/KakaoTalk%20:%20ezuo-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white">
+ <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+</p>
+
