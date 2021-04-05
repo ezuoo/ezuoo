@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=JuhoLee&animation=blinking&FontColor=#000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=JuhoLee&animation=blink&FontColor=#000000&fontSize=90)
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
