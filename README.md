@@ -36,6 +36,6 @@
 <h3 align="center"> 🌟 Contact Me 🌟 </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/KakaoTalk%20:%20ezuo-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white">
- <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+ <img src="https://img.shields.io/badge/juho0003@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </p>
 
