@@ -3,8 +3,8 @@
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
 <p align="center"> Techs that I've used at least once. </p>
-
-<p align="center">
+<!--
+<p align="center"> -->
  ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)&nbsp;
  ![](https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
  ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)&nbsp; 
@@ -23,6 +23,6 @@
   ![](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)&nbsp; 
   ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)&nbsp; 
-</p>
+<!--</p>-->
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
